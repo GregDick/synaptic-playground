@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregDick/synaptic-playground.git"
+  },
+  "author": "Greg Dick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GregDick/synaptic-playground/issues"
+  },
+  "homepage": "https://github.com/GregDick/synaptic-playground#readme",
+  "dependencies": {
+    "synaptic": "^1.0.1"
+  }
+}
